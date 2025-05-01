@@ -945,7 +945,6 @@ table tfoot td {
   width: 100px;
   height: 100px;
   margin: 0 auto 10px;
-  border-radius: 0;  /* Remove rounding */
   overflow: hidden;
   background-color: #ffffff;
 }
@@ -954,8 +953,8 @@ table tfoot td {
 .about img {
   width: 100%;
   height: 100%;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  border-radius: 0;  /* Remove any rounding */
+  -webkit-border-radius: 0;  /* Remove webkit rounding */
   -webkit-transition: -webkit-transform 0.35s;
   transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
