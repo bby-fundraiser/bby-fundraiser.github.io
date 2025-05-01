@@ -1,13 +1,13 @@
 ---
 layout: post
-title: B Welsh
+title: Philly Rhythm
 date: 2025-04-30 12:00:00 +0000
-description: Bath and Body Basket $75 value  # Add post description (optional)
+description: 3 drum lesson $120 value  # Add post description (optional)
 img: software.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
 
-Bath and Body Basket $75 value
+3 drum lesson $120 value
 
 

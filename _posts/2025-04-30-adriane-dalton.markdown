@@ -1,13 +1,13 @@
 ---
 layout: post
-title: B Welsh
+title: Adriane Dalton
 date: 2025-04-30 12:00:00 +0000
-description: Bath and Body Basket $75 value  # Add post description (optional)
+description: Jewelry  # Add post description (optional)
 img: software.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
 
-Bath and Body Basket $75 value
+Jewelry
 
-
+[Link Text](http://portfolio.spitandwishes.com/)
