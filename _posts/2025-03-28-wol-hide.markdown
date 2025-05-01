@@ -2,13 +2,13 @@
 layout: post
 title: Wol Hide
 date: 2025-03-28 12:00:00 +0000
-description: Hat and handwoven tote  # Add post description (optional)
+description: Hat and handwoven tote.  # Add post description (optional)
 img: wol_hide # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
 
-Hat and handwoven tote
+Hat and handwoven tote.
 
 
-Starting big: $45 and $80
+Starting bid: $45 and $80

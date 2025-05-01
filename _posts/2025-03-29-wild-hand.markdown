@@ -2,13 +2,13 @@
 layout: post
 title: Wild Hand
 date: 2025-03-29 12:00:00 +0000
-description: Bag with knitting supplies and book  # Add post description (optional)
+description: Bag with knitting supplies and book.  # Add post description (optional)
 img: wild_hand.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
 
-Bag with knitting supplies and book
+Bag with knitting supplies and book.
 
 
-Starting big: $50
+Starting bid: $50
