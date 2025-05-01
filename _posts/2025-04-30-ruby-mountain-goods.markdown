@@ -10,4 +10,3 @@ tags: [auction]
 
 Basket of goodies $130
 
-[Website](https://ruby-mountain.com/)

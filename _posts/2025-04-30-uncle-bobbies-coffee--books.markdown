@@ -10,4 +10,3 @@ tags: [auction]
 
 Tote bag with 3 books and $25 gift card
 
-[Website](https://www.unclebobbies.com/)

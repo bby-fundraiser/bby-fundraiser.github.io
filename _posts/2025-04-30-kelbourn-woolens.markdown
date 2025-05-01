@@ -10,4 +10,3 @@ tags: [auction]
 
 tote and yarn
 
-[Website](https://kelbournewoolens.com)

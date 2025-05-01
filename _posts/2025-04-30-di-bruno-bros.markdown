@@ -10,4 +10,3 @@ tags: [auction]
 
 2 bottles of DiBrunos Wine and wine tote
 
-[Website](https://dibruno.com)

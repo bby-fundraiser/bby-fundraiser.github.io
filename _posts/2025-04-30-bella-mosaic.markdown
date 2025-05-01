@@ -10,4 +10,3 @@ tags: [auction]
 
 $55 gift certificate-covers cost of intro to mosaic class
 
-[Website](https://www.bellamosaic.com/)

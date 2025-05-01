@@ -10,4 +10,3 @@ tags: [auction]
 
 Signed copy of "Don't Call Me Home" memoir
 
-[Website](https://www.alexauder.com/dont-call-me-home)

@@ -10,4 +10,3 @@ tags: [auction]
 
 Coffee (bags of beans and ready to drink cans) mug / tumble/ t shirt / hat etc. $200 value
 
-[Website](https://rivalbros.com)

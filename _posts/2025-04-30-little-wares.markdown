@@ -10,4 +10,3 @@ tags: [auction]
 
 Back pack and book 
 
-[Website](https://little-wares.com/)

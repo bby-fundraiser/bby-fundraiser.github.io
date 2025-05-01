@@ -10,4 +10,3 @@ tags: [auction]
 
 $50 gift certificate 
 
-[Website](https://nestinghouse.com)

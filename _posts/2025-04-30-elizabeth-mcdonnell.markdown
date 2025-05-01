@@ -10,4 +10,3 @@ tags: [auction]
 
 Matted print $150
 
-[Website](http://elizabethmcd.com/)

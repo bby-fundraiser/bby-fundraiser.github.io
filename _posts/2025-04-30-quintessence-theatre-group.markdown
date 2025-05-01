@@ -10,4 +10,3 @@ tags: [auction]
 
 Two tickets to a show
 
-[Website](https://www.quintessencetheatre.org/)

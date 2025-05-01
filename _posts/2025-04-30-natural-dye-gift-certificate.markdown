@@ -10,4 +10,3 @@ tags: [auction]
 
 Gift certificate
 
-

@@ -10,4 +10,3 @@ tags: [auction]
 
 $100 gift card
 
-[Website](https://artistcraftsman.com)

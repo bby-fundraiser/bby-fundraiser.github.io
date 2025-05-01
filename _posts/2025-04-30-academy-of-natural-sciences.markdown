@@ -10,4 +10,3 @@ tags: [auction]
 
 6 passes to the Academy of Natural Sciences
 
-[Website](https://ansp.org/)

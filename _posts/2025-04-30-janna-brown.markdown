@@ -10,4 +10,3 @@ tags: [auction]
 
 Mini family photo session $450 value
 
-

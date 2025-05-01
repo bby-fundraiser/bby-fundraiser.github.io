@@ -10,4 +10,3 @@ tags: [auction]
 
 Books or gift card
 
-[Website](https://www.multiversephilly.com/)

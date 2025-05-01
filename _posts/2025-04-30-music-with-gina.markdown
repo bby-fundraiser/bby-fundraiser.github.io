@@ -10,4 +10,3 @@ tags: [auction]
 
 One month classes with music with Gina $85
 
-[Website](https://musicwithgina.com/)

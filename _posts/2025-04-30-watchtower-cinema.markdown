@@ -10,4 +10,3 @@ tags: [auction]
 
 4 tickets +Snacks
 
-[Website](https://watertowercinema.com)

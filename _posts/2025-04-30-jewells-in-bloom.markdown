@@ -10,4 +10,3 @@ tags: [auction]
 
 Gift Certificate
 
-[Website](https://www.jewellsinbloom.com)

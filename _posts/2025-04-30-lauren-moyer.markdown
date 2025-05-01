@@ -10,4 +10,3 @@ tags: [auction]
 
 Myofascial release gift certificate
 
-[Website](https://www.vibrantlifemfr.com/)

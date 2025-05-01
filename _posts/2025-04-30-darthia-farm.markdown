@@ -10,4 +10,3 @@ tags: [auction]
 
 Basket of goodies
 
-[Website](https://www.darthiafarm.com/)

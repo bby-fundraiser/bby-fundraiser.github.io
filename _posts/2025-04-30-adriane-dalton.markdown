@@ -10,4 +10,3 @@ tags: [auction]
 
 Jewelry
 
-[Website](http://portfolio.spitandwishes.com/)

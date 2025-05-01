@@ -10,4 +10,3 @@ tags: [auction]
 
 5 class pack and swag $175
 
-[Website](https://www.movewithlove.com/)

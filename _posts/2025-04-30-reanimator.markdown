@@ -10,4 +10,3 @@ tags: [auction]
 
 $25 gift card, tote, hot coffee mug, iced coffee glass, two bags of coffee
 
-[Website](https://www.reanimatorcoffee.com)
