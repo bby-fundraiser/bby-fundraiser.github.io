@@ -10,4 +10,4 @@ tags: [auction]
 
 Gift card for undetermined amount
 
-[Link Text](https://www.chillonthehillfroyo.com/)
+[Website](https://www.chillonthehillfroyo.com/)

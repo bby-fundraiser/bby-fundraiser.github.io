@@ -10,4 +10,4 @@ tags: [auction]
 
 Bag with knitting supplies and book
 
-[Link Text](https://wild-hand.com)
+[Website](https://wild-hand.com)

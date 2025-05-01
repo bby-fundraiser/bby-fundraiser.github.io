@@ -10,4 +10,4 @@ tags: [auction]
 
 Framed fine art print
 
-[Link Text](https://heartinhandpress.com/)
+[Website](https://heartinhandpress.com/)

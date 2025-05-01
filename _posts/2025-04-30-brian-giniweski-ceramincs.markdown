@@ -10,4 +10,4 @@ tags: [auction]
 
 Ceramics
 
-[Link Text](https://drippypots.com)
+[Website](https://drippypots.com)
