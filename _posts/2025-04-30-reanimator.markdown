@@ -6,8 +6,8 @@ description: $25 gift card, tote, hot coffee mug, iced coffee glass, two bags of
 img: reanimator.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.reanimatorcoffee.com)
 ---
 
 $25 gift card, tote, hot coffee mug, iced coffee glass, two bags of coffee
 
+[Website](https://www.reanimatorcoffee.com)

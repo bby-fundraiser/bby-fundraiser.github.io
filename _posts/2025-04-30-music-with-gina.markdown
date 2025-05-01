@@ -6,8 +6,8 @@ description: One month classes with music with Gina $85  # Add post description 
 img: music_with_gina # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://musicwithgina.com/)
 ---
 
 One month classes with music with Gina $85
 
+[Website](https://musicwithgina.com/)

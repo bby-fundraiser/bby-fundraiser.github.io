@@ -6,8 +6,8 @@ description: Gift certificate for 6" ready-to-take cake  # Add post description 
 img: frosted_fox.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.frostedfoxcakeshop.com/)
 ---
 
 Gift certificate for 6" ready-to-take cake
 
+[Website](https://www.frostedfoxcakeshop.com/)

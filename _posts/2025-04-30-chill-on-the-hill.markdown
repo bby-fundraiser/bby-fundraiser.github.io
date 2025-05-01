@@ -6,8 +6,8 @@ description: Gift card for undetermined amount  # Add post description (optional
 img: chill_on_the_hill.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.chillonthehillfroyo.com/)
 ---
 
 Gift card for undetermined amount
 
+[Website](https://www.chillonthehillfroyo.com/)

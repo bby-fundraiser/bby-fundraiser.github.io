@@ -6,8 +6,8 @@ description: 3 drum lesson $120 value  # Add post description (optional)
 img: philly_rhythm.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: 
 ---
 
 3 drum lesson $120 value
+
 

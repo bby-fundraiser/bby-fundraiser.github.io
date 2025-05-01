@@ -6,8 +6,8 @@ description: Matted print $150  # Add post description (optional)
 img: elizabethmcd.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](http://elizabethmcd.com/)
 ---
 
 Matted print $150
 
+[Website](http://elizabethmcd.com/)

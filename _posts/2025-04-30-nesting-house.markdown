@@ -6,8 +6,8 @@ description: $50 gift certificate   # Add post description (optional)
 img: nesting_house # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://nestinghouse.com)
 ---
 
 $50 gift certificate 
 
+[Website](https://nestinghouse.com)

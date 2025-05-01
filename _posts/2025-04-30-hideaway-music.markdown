@@ -6,8 +6,8 @@ description: $100 gift card  # Add post description (optional)
 img: hide_away.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://hideawaymusic.org/)
 ---
 
 $100 gift card
 
+[Website](https://hideawaymusic.org/)

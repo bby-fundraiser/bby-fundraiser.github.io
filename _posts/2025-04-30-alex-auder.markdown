@@ -6,8 +6,8 @@ description: Signed copy of "Don't Call Me Home" memoir  # Add post description 
 img: alex_auder.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.alexauder.com/dont-call-me-home)
 ---
 
 Signed copy of "Don't Call Me Home" memoir
 
+[Website](https://www.alexauder.com/dont-call-me-home)

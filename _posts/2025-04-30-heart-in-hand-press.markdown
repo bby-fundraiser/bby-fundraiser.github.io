@@ -6,8 +6,8 @@ description: Framed fine art print  # Add post description (optional)
 img: hand_in_heart.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://heartinhandpress.com/)
 ---
 
 Framed fine art print
 
+[Website](https://heartinhandpress.com/)

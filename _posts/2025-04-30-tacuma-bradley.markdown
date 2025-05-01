@@ -6,8 +6,8 @@ description: Recorder/wind instrument lesson  # Add post description (optional)
 img: philly_winds.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.letstacmusic.com/)
 ---
 
 Recorder/wind instrument lesson
 
+[Website](https://www.letstacmusic.com/)

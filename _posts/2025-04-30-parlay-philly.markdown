@@ -6,8 +6,8 @@ description: $150 value-PHILLY SPORTS TEAMS4 hats, 1 crewneck, 1 t shirt and bum
 img: parlay_philly # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.parlayphilly.com/)
 ---
 
 $150 value-PHILLY SPORTS TEAMS4 hats, 1 crewneck, 1 t shirt and bumper stickers
 
+[Website](https://www.parlayphilly.com/)

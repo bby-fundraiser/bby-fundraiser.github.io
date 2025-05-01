@@ -6,8 +6,8 @@ description: Hat and handwoven tote  # Add post description (optional)
 img: wol_hide # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://wolhide.com)
 ---
 
 Hat and handwoven tote
 
+[Website](https://wolhide.com)

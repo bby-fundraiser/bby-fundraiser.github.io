@@ -6,8 +6,8 @@ description: Books or gift card  # Add post description (optional)
 img: multiverse.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.multiversephilly.com/)
 ---
 
 Books or gift card
 
+[Website](https://www.multiversephilly.com/)

@@ -6,8 +6,8 @@ description: Tote bag with 3 books and $25 gift card  # Add post description (op
 img: uncle_bobbies.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://www.unclebobbies.com/)
 ---
 
 Tote bag with 3 books and $25 gift card
 
+[Website](https://www.unclebobbies.com/)

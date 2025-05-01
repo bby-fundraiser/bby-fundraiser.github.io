@@ -6,8 +6,8 @@ description: tote and yarn  # Add post description (optional)
 img: kelbourne_woolens.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://kelbournewoolens.com)
 ---
 
 tote and yarn
 
+[Website](https://kelbournewoolens.com)

@@ -6,8 +6,8 @@ description: Back pack and book   # Add post description (optional)
 img: little_wares.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://little-wares.com/)
 ---
 
 Back pack and book 
 
+[Website](https://little-wares.com/)

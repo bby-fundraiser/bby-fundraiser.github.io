@@ -6,8 +6,8 @@ description: 6 passes to the Academy of Natural Sciences  # Add post description
 img: academy_sciences.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://ansp.org/)
 ---
 
 6 passes to the Academy of Natural Sciences
 
+[Website](https://ansp.org/)

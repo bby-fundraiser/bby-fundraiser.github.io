@@ -6,8 +6,8 @@ description: 2 bottles of DiBrunos Wine and wine tote  # Add post description (o
 img: di_bruno_bros # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://dibruno.com)
 ---
 
 2 bottles of DiBrunos Wine and wine tote
 
+[Website](https://dibruno.com)

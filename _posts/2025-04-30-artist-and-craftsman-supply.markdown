@@ -6,8 +6,8 @@ description: $100 gift card  # Add post description (optional)
 img: artistcraftsman.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
-website: [Website](https://artistcraftsman.com)
 ---
 
 $100 gift card
 
+[Website](https://artistcraftsman.com)
