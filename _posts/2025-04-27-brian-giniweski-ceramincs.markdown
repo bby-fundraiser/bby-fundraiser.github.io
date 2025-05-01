@@ -10,3 +10,5 @@ tags: [auction]
 
 Ceramics
 
+
+Starting big: $50

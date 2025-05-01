@@ -10,3 +10,5 @@ tags: [auction]
 
 $55 gift certificate-covers cost of intro to mosaic class
 
+
+Starting big: $25

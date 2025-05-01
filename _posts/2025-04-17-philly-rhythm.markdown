@@ -10,3 +10,5 @@ tags: [auction]
 
 3 drum lesson $120 value
 
+
+Starting big: $60

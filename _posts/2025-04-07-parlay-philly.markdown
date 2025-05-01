@@ -10,3 +10,5 @@ tags: [auction]
 
 $150 value-PHILLY SPORTS TEAMS4 hats, 1 crewneck, 1 t shirt and bumper stickers
 
+
+Starting big: $75
