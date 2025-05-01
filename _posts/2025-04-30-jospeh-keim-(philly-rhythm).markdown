@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Jospeh Keim (Philly Rhythm)

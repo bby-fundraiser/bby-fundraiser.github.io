@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Uncle Bobbie's Coffee & Books

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: John Eskate (BBY Parent - see directory)

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Jewells in Bloom 
