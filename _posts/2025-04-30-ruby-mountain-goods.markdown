@@ -6,8 +6,8 @@ description: Basket of goodies $130  # Add post description (optional)
 img: ruby_mountain_goods # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://ruby-mountain.com/)
 ---
 
 Basket of goodies $130
 
-[Website](https://ruby-mountain.com/)

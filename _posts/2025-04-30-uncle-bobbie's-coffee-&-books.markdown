@@ -3,11 +3,11 @@ layout: post
 title: Uncle Bobbie's Coffee & Books
 date: 2025-04-30 12:00:00 +0000
 description: Tote bag with 3 books and $25 gift card  # Add post description (optional)
-img: uncle_bobbie's_coffee_&_books # Add image post (optional)
+img: uncle_bobbies.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://www.unclebobbies.com/)
 ---
 
 Tote bag with 3 books and $25 gift card
 
-[Website](https://www.unclebobbies.com/)

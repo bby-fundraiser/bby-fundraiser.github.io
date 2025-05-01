@@ -6,8 +6,8 @@ description: 4 tickets +Snacks  # Add post description (optional)
 img: watchtower_cinema # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://watertowercinema.com)
 ---
 
 4 tickets +Snacks
 
-[Website](https://watertowercinema.com)

@@ -3,11 +3,11 @@ layout: post
 title: Multiverse
 date: 2025-04-30 12:00:00 +0000
 description: Books or gift card  # Add post description (optional)
-img: multiverse # Add image post (optional)
+img: multiverse.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://www.multiversephilly.com/)
 ---
 
 Books or gift card
 
-[Website](https://www.multiversephilly.com/)

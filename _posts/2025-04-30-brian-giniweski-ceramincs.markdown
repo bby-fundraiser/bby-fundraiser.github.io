@@ -6,8 +6,8 @@ description: Ceramics  # Add post description (optional)
 img: brian_giniweski_ceramincs # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://drippypots.com)
 ---
 
 Ceramics
 
-[Website](https://drippypots.com)

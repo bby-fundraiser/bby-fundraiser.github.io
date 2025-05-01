@@ -6,8 +6,8 @@ description: Myofascial release gift certificate  # Add post description (option
 img: lauren_moyer # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://www.vibrantlifemfr.com/)
 ---
 
 Myofascial release gift certificate
 
-[Website](https://www.vibrantlifemfr.com/)

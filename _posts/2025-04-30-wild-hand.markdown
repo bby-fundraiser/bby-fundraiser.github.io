@@ -6,8 +6,8 @@ description: Bag with knitting supplies and book  # Add post description (option
 img: wild_hand # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://wild-hand.com)
 ---
 
 Bag with knitting supplies and book
 
-[Website](https://wild-hand.com)

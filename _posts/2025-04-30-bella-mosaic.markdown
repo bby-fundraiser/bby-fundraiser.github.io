@@ -6,8 +6,8 @@ description: $55 gift certificate-covers cost of intro to mosaic class  # Add po
 img: bella_mosaic.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
+website: [Website](https://www.bellamosaic.com/)
 ---
 
 $55 gift certificate-covers cost of intro to mosaic class
 
-[Website](https://www.bellamosaic.com/)
