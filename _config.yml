@@ -1,5 +1,5 @@
 #remote_theme: artemsheludko/flexible-jekyll
-title: Hello, world! I'm David Freeman
+title: Big Backyard Silent Auction
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Big Backyard Nursery School Fundraiser # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: If you cannot make it to the event, please text your big to the number below. Please include your name, item name, and your big (in dollars). # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
