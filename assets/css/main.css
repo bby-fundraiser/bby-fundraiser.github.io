@@ -945,11 +945,11 @@ table tfoot td {
   width: 100px;
   height: 100px;
   margin: 0 auto 10px;
-  -webkit-border-radius: 0;
-          border-radius: 0;
+  border-radius: 0;  /* Remove rounding */
   overflow: hidden;
-  background-color: #333030;
+  background-color: #ffffff;
 }
+
 
 .about img {
   width: 100%;
