@@ -1,0 +1,10 @@
+
+---
+layout: post
+title: Human Robot
+date: 2025-04-30 12:00:00 +0000
+description: 3 cases of 24 beers  # Add post description (optional)
+img: human_robot.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+---
