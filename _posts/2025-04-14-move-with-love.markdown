@@ -12,3 +12,5 @@ tags: [auction]
 
 
 <b>Starting bid: $85</b>
+
+![holly.png](/assets/img/holly.png)

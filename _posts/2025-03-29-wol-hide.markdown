@@ -2,15 +2,15 @@
 layout: post
 title: Wol Hide
 date: 2025-03-29 12:00:00 +0000
-description: Hat and handwoven tote.  # Add post description (optional)
+description: Handwoven tote and Hat.  # Add post description (optional)
 img: wolhide.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
 
-Hat and handwoven tote.
+Handwoven tote and Hat.
 
 
-<b>Starting bid: $45 and $80</b>
+<b>Starting bid: $80 and $45</b>
 
 ![wolhide_stack.jpg](/assets/img/wolhide_stack.jpg)
