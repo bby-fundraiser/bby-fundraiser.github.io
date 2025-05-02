@@ -12,3 +12,6 @@ $55 gift certificate-covers cost of intro to mosaic class.
 
 
 <b>Starting bid: $25</b>
+
+
+- [More their website for more info](https://www.bellamosaic.com/)

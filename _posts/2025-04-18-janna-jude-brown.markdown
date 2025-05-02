@@ -10,3 +10,7 @@ tags: [auction]
 
 Mini family photo session. $450 value.
 
+
+
+
+- [More their website for more info](https://www.jannajude.com)
