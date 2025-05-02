@@ -12,3 +12,5 @@ Ceramics.
 
 
 Starting bid: $50
+
+![drips.jpg](/assets/img/drips.jpg)

@@ -10,3 +10,6 @@ tags: [auction]
 
 Framed fine art print.
 
+
+
+![hand_in_heart.jpg](/assets/img/hand_in_heart.jpg)

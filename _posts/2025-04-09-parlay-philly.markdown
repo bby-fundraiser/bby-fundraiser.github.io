@@ -12,3 +12,5 @@ $150 value-PHILLY SPORTS TEAMS4 hats, 1 crewneck, 1 t shirt and bumper stickers.
 
 
 Starting bid: $75
+
+![parley_grid.jpg](/assets/img/parley_grid.jpg)
