@@ -13,5 +13,7 @@ Jewelry, 4 pairs of earings ($40 value, each), 2 necklaces ($60 and $80 value). 
 
 <b>Starting bid: $20, $30, and $40</b>
 
+![ad_pics.jpg](/assets/img/ad_pics.jpg)
+
 
 - [Visit their website for more info](http://portfolio.spitandwishes.com/)
