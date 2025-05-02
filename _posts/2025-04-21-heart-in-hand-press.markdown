@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heart in Hand Press
-date: 2025-04-20 12:00:00 +0000
+date: 2025-04-21 12:00:00 +0000
 description: Framed fine art print. $100 value.  # Add post description (optional)
 img: hand_in_heart.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

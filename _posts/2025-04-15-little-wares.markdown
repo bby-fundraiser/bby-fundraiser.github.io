@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Little Wares
-date: 2025-04-14 12:00:00 +0000
+date: 2025-04-15 12:00:00 +0000
 description: Back pack and book. $75 value.  # Add post description (optional)
 img: little_wares.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
