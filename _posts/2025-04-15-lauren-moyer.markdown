@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lauren Moyer
-date: 2025-04-16 12:00:00 +0000
+date: 2025-04-15 12:00:00 +0000
 description: Myofascial release gift certificate. $150 value.  # Add post description (optional)
 img: vibrant_life.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philly Winds Music School
-date: 2025-04-03 12:00:00 +0000
+date: 2025-04-02 12:00:00 +0000
 description: Recorder/wind instrument lesson. $20 value.  # Add post description (optional)
 img: philly_winds.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
