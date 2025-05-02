@@ -16,4 +16,4 @@ Ceramics.
 ![drips.jpg](/assets/img/drips.jpg)
 
 
-- [More their website for more info](https://drippypots.com)
+- [Visit their website for more info](https://drippypots.com)

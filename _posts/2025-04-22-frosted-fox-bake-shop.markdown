@@ -14,4 +14,4 @@ Gift certificate for 6" ready-to-take cake.
 <b>Starting bid: $25</b>
 
 
-- [More their website for more info](https://www.frostedfoxcakeshop.com/)
+- [Visit their website for more info](https://www.frostedfoxcakeshop.com/)

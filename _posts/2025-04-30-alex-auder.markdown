@@ -13,4 +13,4 @@ Signed copy of "Don't Call Me Home" memoir.
 
 
 
-- [More their website for more info](https://www.alexauder.com/dont-call-me-home)
+- [Visit their website for more info](https://www.alexauder.com/dont-call-me-home)

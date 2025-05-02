@@ -13,4 +13,4 @@ Matted print. $150 value.
 
 
 
-- [More their website for more info](http://elizabethmcd.com/)
+- [Visit their website for more info](http://elizabethmcd.com/)

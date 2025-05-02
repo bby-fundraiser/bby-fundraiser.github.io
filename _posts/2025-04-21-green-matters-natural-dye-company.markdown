@@ -14,4 +14,4 @@ Gift certificate.
 <b>Starting bid: $25</b>
 
 
-- [More their website for more info](https://www.greenmattersnaturaldyecompany.com/)
+- [Visit their website for more info](https://www.greenmattersnaturaldyecompany.com/)

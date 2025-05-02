@@ -15,4 +15,4 @@ Framed fine art print.
 ![hand_in_heart.jpg](/assets/img/hand_in_heart.jpg)
 
 
-- [More their website for more info](https://heartinhandpress.com/)
+- [Visit their website for more info](https://heartinhandpress.com/)

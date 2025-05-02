@@ -14,4 +14,4 @@ Back pack and book .
 <b>Starting bid: $35</b>
 
 
-- [More their website for more info](https://little-wares.com/)
+- [Visit their website for more info](https://little-wares.com/)

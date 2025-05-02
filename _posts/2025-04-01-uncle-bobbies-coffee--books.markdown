@@ -14,4 +14,4 @@ Tote bag with 3 books and $25 gift card.
 <b>Starting bid: $35</b>
 
 
-- [More their website for more info](https://www.unclebobbies.com/)
+- [Visit their website for more info](https://www.unclebobbies.com/)

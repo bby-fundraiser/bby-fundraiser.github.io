@@ -13,4 +13,4 @@ Jewelry.
 
 
 
-- [More their website for more info](http://portfolio.spitandwishes.com/)
+- [Visit their website for more info](http://portfolio.spitandwishes.com/)

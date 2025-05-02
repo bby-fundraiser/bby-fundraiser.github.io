@@ -13,4 +13,4 @@ $50 gift certificate .
 
 
 
-- [More their website for more info](https://nestinghouse.com)
+- [Visit their website for more info](https://nestinghouse.com)

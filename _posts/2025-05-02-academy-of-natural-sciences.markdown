@@ -13,4 +13,4 @@ tags: [auction]
 
 
 
-- [More their website for more info](https://ansp.org/)
+- [Visit their website for more info](https://ansp.org/)

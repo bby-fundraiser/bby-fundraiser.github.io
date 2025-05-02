@@ -13,4 +13,4 @@ $100 gift card.
 
 
 
-- [More their website for more info](https://hideawaymusic.org/)
+- [Visit their website for more info](https://hideawaymusic.org/)

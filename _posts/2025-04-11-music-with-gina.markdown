@@ -14,4 +14,4 @@ One month classes with music with Gina. $85 value.
 <b>Starting bid: $40</b>
 
 
-- [More their website for more info](https://musicwithgina.com/)
+- [Visit their website for more info](https://musicwithgina.com/)

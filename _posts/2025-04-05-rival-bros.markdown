@@ -13,4 +13,4 @@ Coffee (bags of beans and ready to drink cans) mug / tumble/ t shirt / hat etc. 
 
 
 
-- [More their website for more info](https://rivalbros.com)
+- [Visit their website for more info](https://rivalbros.com)

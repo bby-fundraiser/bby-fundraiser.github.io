@@ -18,4 +18,4 @@ tags: [auction]
 
 
 
-- [More their website for more info](https://dibruno.com)
+- [Visit their website for more info](https://dibruno.com)

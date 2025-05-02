@@ -13,4 +13,4 @@ tags: [auction]
 
 
 
-- [More their website for more info](https://watertowercinema.com)
+- [Visit their website for more info](https://watertowercinema.com)

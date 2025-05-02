@@ -16,4 +16,4 @@ tags: [auction]
 ![holly.png](/assets/img/holly.png)
 
 
-- [More their website for more info](https://www.movewithlove.com/)
+- [Visit their website for more info](https://www.movewithlove.com/)

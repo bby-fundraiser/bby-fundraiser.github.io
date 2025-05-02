@@ -23,4 +23,4 @@ Kids Basket. $130 value.
 
 
 
-- [More their website for more info](https://ruby-mountain.com/)
+- [Visit their website for more info](https://ruby-mountain.com/)

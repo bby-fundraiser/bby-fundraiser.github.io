@@ -13,4 +13,4 @@ Books or gift card.
 
 
 
-- [More their website for more info](https://www.multiversephilly.com/)
+- [Visit their website for more info](https://www.multiversephilly.com/)

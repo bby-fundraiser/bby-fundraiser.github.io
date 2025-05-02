@@ -13,4 +13,4 @@ Gift Certificate.
 
 
 
-- [More their website for more info](https://www.jewellsinbloom.com)
+- [Visit their website for more info](https://www.jewellsinbloom.com)

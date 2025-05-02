@@ -23,4 +23,4 @@ $150 value! PHILLY SPORTS TEAMS 4 hats, 1 crewneck, 1 tshirt and bumper stickers
 
 
 
-- [More their website for more info](https://www.parlayphilly.com/)
+- [Visit their website for more info](https://www.parlayphilly.com/)

@@ -20,4 +20,4 @@ $25 gift card, tote, hot coffee mug, iced coffee glass, two bags of coffee.
 
 
 
-- [More their website for more info](https://www.reanimatorcoffee.com)
+- [Visit their website for more info](https://www.reanimatorcoffee.com)
