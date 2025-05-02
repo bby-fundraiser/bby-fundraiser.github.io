@@ -11,6 +11,7 @@ tags: [auction]
 $50 gift certificate .
 
 
+<b>Starting bid: $25</b>
 
 
 - [Visit their website for more info](https://nestinghouse.com)

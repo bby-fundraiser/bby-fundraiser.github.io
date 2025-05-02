@@ -2,15 +2,16 @@
 layout: post
 title: Reanimator
 date: 2025-04-06 12:00:00 +0000
-description: $25 gift card, tote, hot coffee mug, iced coffee glass, two bags of coffee.  # Add post description (optional)
+description: $25 gift card, tote, hot coffee mug, iced coffee glass, two bags of coffee. $125 value.  # Add post description (optional)
 img: reanimator.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
 
-$25 gift card, tote, hot coffee mug, iced coffee glass, two bags of coffee.
+$25 gift card, tote, hot coffee mug, iced coffee glass, two bags of coffee. $125 value.
 
 
+<b>Starting bid: $50</b>
 
 ![reanimator_basket.jpg](/assets/img/reanimator_basket.jpg)
 - [Ceramic Mug](https://www.reanimatorcoffee.com/products/ceramic-mug)

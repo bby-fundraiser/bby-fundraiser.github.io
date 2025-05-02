@@ -11,6 +11,7 @@ tags: [auction]
 Matted print. $150 value.
 
 
+<b>Starting bid: $75</b>
 
 
 - [Visit their website for more info](http://elizabethmcd.com/)

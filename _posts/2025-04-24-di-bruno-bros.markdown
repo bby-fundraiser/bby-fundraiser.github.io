@@ -2,15 +2,16 @@
 layout: post
 title: Di Bruno Bros
 date: 2025-04-24 12:00:00 +0000
-description: 2 bottles of DiBrunos Wine and wine tote.  # Add post description (optional)
+description: 2 bottles of DiBrunos Wine and wine tote. $80 value.  # Add post description (optional)
 img: di_bruno_bros.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
 
-2 bottles of DiBrunos Wine and wine tote.
+2 bottles of DiBrunos Wine and wine tote. $80 value.
 
 
+<b>Starting bid: $40</b>
 
 ![dibruno_wines.png](/assets/img/dibruno_wines.png)
 - Pinot Noir a la @fossilandfawn - young bright Oregon Pinot Noir, French inspiration vibes, lots of cherry, cola & red fruit. Invigorating for a cold gray day, loves a creamy and/or blue cheese partner + baguette.

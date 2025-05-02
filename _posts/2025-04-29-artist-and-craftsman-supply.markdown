@@ -11,6 +11,7 @@ tags: [auction]
 $100 gift card.
 
 
+<b>Starting bid: $50</b>
 
 
 - [Visit their website for more info](https://artistcraftsman.com)
