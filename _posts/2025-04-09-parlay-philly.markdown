@@ -14,3 +14,9 @@ $150 value-PHILLY SPORTS TEAMS4 hats, 1 crewneck, 1 t shirt and bumper stickers.
 Starting bid: $75
 
 ![parley_grid.jpg](/assets/img/parley_grid.jpg)
+- [SIXERS Dad Style Strapback Hat](https://www.parlayphilly.com/product/sixers-dad-style-strapback-hat)
+- [FLYERS Corduroy Snapback 'Black'](https://www.parlayphilly.com/product/flyers-corduroy-snapback-black)
+- [PARLAY 'Eagle-Maniac' Shirt](https://www.parlayphilly.com/product/parlay-eagle-maniac-shirt)
+- [EAGLES FAN Crewneck 'White'](https://www.parlayphilly.com/product/eagles-fan-crewneck-white)
+- [PHILLIES ‘Follow Us!’ Bumper Sticker](https://www.parlayphilly.com/product/phillies-follow-us-bumper-sticker)
+- [PARLAY Bulldog Cotton Hat 'Off-White'](https://www.parlayphilly.com/product/parlay-bulldog-cotton-hat-off-white)
