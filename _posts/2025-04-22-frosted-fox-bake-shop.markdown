@@ -11,4 +11,4 @@ tags: [auction]
 Gift certificate for 6" ready-to-take cake.
 
 
-Starting bid: $25
+<b>Starting bid: $25</b>

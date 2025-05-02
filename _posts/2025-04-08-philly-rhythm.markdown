@@ -11,4 +11,4 @@ tags: [auction]
 3 drum lesson $120 value.
 
 
-Starting bid: $60
+<b>Starting bid: $60</b>

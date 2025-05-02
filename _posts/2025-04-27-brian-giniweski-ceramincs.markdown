@@ -11,6 +11,6 @@ tags: [auction]
 Ceramics.
 
 
-Starting bid: $50
+<b>Starting bid: $50</b>
 
 ![drips.jpg](/assets/img/drips.jpg)

@@ -11,4 +11,4 @@ tags: [auction]
 Kids Basket $130 value.
 
 
-Starting bid: $65
+<b>Starting bid: $65</b>

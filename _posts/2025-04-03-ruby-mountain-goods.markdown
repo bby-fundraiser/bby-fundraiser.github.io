@@ -11,4 +11,4 @@ tags: [auction]
 Basket of goodies $130.
 
 
-Starting bid: $65
+<b>Starting bid: $65</b>

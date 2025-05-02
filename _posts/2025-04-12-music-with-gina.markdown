@@ -11,4 +11,4 @@ tags: [auction]
 One month classes with music with Gina $85.
 
 
-Starting bid: $40
+<b>Starting bid: $40</b>

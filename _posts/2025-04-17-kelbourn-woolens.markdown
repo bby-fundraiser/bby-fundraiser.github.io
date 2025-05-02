@@ -11,4 +11,4 @@ tags: [auction]
 tote and yarn.
 
 
-Starting bid: $25
+<b>Starting bid: $25</b>

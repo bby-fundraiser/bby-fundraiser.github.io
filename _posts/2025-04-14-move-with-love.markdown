@@ -11,4 +11,4 @@ tags: [auction]
 5 class pack and swag $175.
 
 
-Starting bid: $85
+<b>Starting bid: $85</b>

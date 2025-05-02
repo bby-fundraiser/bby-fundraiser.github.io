@@ -11,4 +11,4 @@ tags: [auction]
 Tote bag with 3 books and $25 gift card.
 
 
-Starting bid: $35
+<b>Starting bid: $35</b>

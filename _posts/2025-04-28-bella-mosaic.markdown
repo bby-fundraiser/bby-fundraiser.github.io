@@ -11,4 +11,4 @@ tags: [auction]
 $55 gift certificate-covers cost of intro to mosaic class.
 
 
-Starting bid: $25
+<b>Starting bid: $25</b>

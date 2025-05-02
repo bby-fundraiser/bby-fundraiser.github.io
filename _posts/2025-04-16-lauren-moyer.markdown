@@ -11,4 +11,4 @@ tags: [auction]
 Myofascial release gift certificate.
 
 
-Starting bid: $75
+<b>Starting bid: $75</b>

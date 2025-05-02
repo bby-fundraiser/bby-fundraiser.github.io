@@ -11,4 +11,4 @@ tags: [auction]
 Bag with knitting supplies and book.
 
 
-Starting bid: $50
+<b>Starting bid: $50</b>

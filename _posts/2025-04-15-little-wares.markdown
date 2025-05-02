@@ -11,4 +11,4 @@ tags: [auction]
 Back pack and book .
 
 
-Starting bid: $35
+<b>Starting bid: $35</b>

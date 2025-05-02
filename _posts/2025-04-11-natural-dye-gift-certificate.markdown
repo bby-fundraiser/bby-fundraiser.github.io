@@ -11,4 +11,4 @@ tags: [auction]
 Gift certificate.
 
 
-Starting bid: $25
+<b>Starting bid: $25</b>
