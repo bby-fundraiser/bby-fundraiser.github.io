@@ -1,0 +1,17 @@
+---
+layout: post
+title: Wild Hand
+date: 2026-03-23 12:00:00 +0000
+description: tote and $50 gift card  # Add post description (optional)
+img: wild_hand.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [auction]
+---
+
+tote and $50 gift card
+
+
+<b>Starting bid: </b>
+
+
+- [Visit their website for more info](https://wild-hand.com)
