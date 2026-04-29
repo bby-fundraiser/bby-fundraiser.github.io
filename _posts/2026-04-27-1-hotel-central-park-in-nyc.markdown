@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Newbury Boston
-date: 2026-03-25 12:00:00 +0000
+title: 1 Hotel Central Park in NYC
+date: 2026-04-27 12:00:00 +0000
 description: 2-night stay donation  # Add post description (optional)
-img: newbury.png # Add image post (optional)
+img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
@@ -14,4 +14,4 @@ tags: [auction]
 <b>Starting bid: </b>
 
 
-- [Visit their website for more info](https://www.thenewburyboston.com/)
+- [Visit their website for more info](https://www.1hotels.com/central-park)

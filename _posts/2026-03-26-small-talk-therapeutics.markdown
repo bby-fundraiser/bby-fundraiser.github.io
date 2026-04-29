@@ -3,7 +3,7 @@ layout: post
 title: Small Talk Therapeutics
 date: 2026-03-26 12:00:00 +0000
 description: confirmed but not sure yet what she is donating  # Add post description (optional)
-img:  # Add image post (optional)
+img: small_talk.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [auction]
 ---
