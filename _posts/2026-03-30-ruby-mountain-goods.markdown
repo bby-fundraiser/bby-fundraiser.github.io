@@ -13,9 +13,6 @@ value: $90
 finger puppet, diary, glow in the dark game, puzzle
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $90</b>
 
 - [Visit their website for more info](https://ruby-mountain.com)

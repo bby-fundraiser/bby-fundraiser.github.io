@@ -13,7 +13,4 @@ value: $100
 5 class pass
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $100</b>

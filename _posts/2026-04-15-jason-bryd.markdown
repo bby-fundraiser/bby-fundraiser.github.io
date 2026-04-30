@@ -13,9 +13,6 @@ value: $510
 painting, titled "The Piano Lesson"
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $510</b>
 ![piano_lesson.png](/assets/img/piano_lesson.png)
 

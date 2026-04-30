@@ -13,7 +13,4 @@ value: $400
 Oil painting
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $400</b>

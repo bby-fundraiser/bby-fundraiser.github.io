@@ -13,7 +13,4 @@ value: $300
 4 day passes
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $300</b>

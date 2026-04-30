@@ -13,9 +13,6 @@ value: $300
 confirmed but not sure yet what she is donating
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $300</b>
 
 - [Visit their website for more info](https://www.smalltalktherapeutics.com/)

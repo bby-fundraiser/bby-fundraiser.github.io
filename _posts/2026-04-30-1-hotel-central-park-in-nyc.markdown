@@ -13,9 +13,6 @@ value: $1,000
 1-night stay
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $1,000</b>
 
 - [Visit their website for more info](https://www.1hotels.com/central-park)

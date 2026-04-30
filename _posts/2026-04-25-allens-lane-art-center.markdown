@@ -13,9 +13,6 @@ value: $55
 gift card
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $55</b>
 
 - [Visit their website for more info](https://allenslane.org/)

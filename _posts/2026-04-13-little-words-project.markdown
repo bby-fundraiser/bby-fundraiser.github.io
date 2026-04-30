@@ -13,7 +13,4 @@ value:
 stack of bracelets and appointment at their bead bar
 
 
-<b>Starting bid: </b>
-
-
 - [Visit their website for more info](https://www.littlewordsproject.com/)

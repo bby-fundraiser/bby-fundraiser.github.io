@@ -13,9 +13,6 @@ value: $150
 swag/class card
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $150</b>
 
 - [Visit their website for more info](https://www.movewithlove.com/)

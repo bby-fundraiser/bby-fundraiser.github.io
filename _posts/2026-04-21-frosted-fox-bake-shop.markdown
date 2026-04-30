@@ -13,9 +13,6 @@ value: $50
 gift certificate for one take away cake
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $50</b>
 
 - [Visit their website for more info](https://www.frostedfoxcakeshop.com/)

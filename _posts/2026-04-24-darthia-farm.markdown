@@ -13,9 +13,6 @@ value: $125
 Basket of goodies
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $125</b>
 
 - [Visit their website for more info](https://www.darthiafarm.com/)

@@ -13,9 +13,6 @@ value: $60
 10oz bag of whole bean coffee, ceramic mug, travel mug
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $60</b>
 
 - [Visit their website for more info](https://www.grindcorehouse.com)

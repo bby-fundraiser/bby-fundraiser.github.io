@@ -13,9 +13,6 @@ value: $300
 30 min mini photo session
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $300</b>
 
 - [Visit their website for more info](https://www.kiraluxon.com/)

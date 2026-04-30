@@ -13,9 +13,6 @@ value: $1,000
 2-night stay donation
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $1,000</b>
 
 - [Visit their website for more info](https://www.thenewburyboston.com/)

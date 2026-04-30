@@ -13,7 +13,4 @@ value: $540
 Four (4) tickets for a 2026 regular season home game (seats are 14 rows behind the bench, midfield). Includes a parking pass and access to the prime point club. Donated by Rival Bros Coffee.
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $540</b>

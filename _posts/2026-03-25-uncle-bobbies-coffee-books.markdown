@@ -13,9 +13,6 @@ value: $100
 5 books, tote bag, $25 gift card
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $100</b>
 
 - [Visit their website for more info](https://www.unclebobbies.com/)

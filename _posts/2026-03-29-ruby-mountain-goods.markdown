@@ -13,9 +13,6 @@ value: $100
 dates, ceramic cup, textile, hand cream, incence
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $100</b>
 
 - [Visit their website for more info](https://ruby-mountain.com)

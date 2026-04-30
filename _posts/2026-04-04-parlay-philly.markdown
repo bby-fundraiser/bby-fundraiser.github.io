@@ -13,9 +13,6 @@ value: $100
 philly sports bundle
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $100</b>
 
 - [Visit their website for more info](https://www.parlayphilly.com/)

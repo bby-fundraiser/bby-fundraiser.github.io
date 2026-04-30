@@ -13,7 +13,4 @@ value:
 books, mug, gift card
 
 
-<b>Starting bid: </b>
-
-
 - [Visit their website for more info](https://hilltopbooks.org/)

@@ -13,9 +13,6 @@ value: $110
 Coffee and swag
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $110</b>
 
 - [Visit their website for more info](https://www.reanimatorcoffee.com)

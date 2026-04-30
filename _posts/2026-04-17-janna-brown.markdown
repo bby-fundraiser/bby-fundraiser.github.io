@@ -13,9 +13,6 @@ value: $500
 family photo session
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $500</b>
 
 - [Visit their website for more info](https://www.jannajude.com/)

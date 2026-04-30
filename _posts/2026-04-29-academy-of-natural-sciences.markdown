@@ -13,7 +13,4 @@ value: $135
 Yearly family pass to the Academy of Natural Sciences
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $135</b>

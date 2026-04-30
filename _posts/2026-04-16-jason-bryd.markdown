@@ -13,9 +13,6 @@ value: $710
 painting, titled "Divergent Truths (My Heart in Two)"
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $710</b>
 ![divergent.jpg](/assets/img/divergent.jpg)
 

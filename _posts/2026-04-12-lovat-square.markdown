@@ -13,7 +13,4 @@ value: $100
 $100 gift card
 
 
-<b>Starting bid: </b>
-
-
 <b>Estimated value: $100</b>
