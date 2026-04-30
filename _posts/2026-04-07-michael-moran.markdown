@@ -3,7 +3,7 @@ layout: post
 title: Michael Moran
 date: 2026-04-07 12:00:00 +0000
 description: Photograph
-img: 
+img: monk.png
 fig-caption:
 tags: [auction]
 starting_bid: $50
