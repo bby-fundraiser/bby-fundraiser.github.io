@@ -2,7 +2,7 @@
 layout: post
 title: Ruby Mountain Goods
 date: 2026-03-26 12:00:00 +0000
-description: Kids basket: Sun print kit, Mollusk Mermaid T shirt, baby doll, radish hair clip, Kitpas bath crayons, book, Eco face paint
+description: Kids basket with Sun print kit, Mollusk Mermaid T shirt, baby doll, radish hair clip, Kitpas bath crayons, book, Eco face paint
 img: ruby_mountain.png
 fig-caption:
 tags: [auction]

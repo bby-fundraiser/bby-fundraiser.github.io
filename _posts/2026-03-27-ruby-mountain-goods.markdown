@@ -2,7 +2,7 @@
 layout: post
 title: Ruby Mountain Goods
 date: 2026-03-27 12:00:00 +0000
-description: Basket: Puzzle, Living Libations oil, Mithras candle, Bon Bon candy, Terra Luna tea, 2 Bluestone soaps, Date Better dates
+description: Basket with Puzzle, Living Libations oil, Mithras candle, Bon Bon candy, Terra Luna tea, 2 Bluestone soaps, Date Better dates
 img: ruby_mountain.png
 fig-caption:
 tags: [auction]
