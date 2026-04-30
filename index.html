@@ -10,8 +10,8 @@ layout: main
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     {% if post.description %}<p>{{ post.description }}</p>{% endif %}
-    {% if post.starting_bid %}<p><b>Starting bid: {{ post.starting_bid }}</b></p>{% endif %}
-    {% if post.value %}<p><b>Estimated value: {{ post.value }}</b></p>{% endif %}
+    {% if post.starting_bid %}<p><b>Starting bid: ${{ post.starting_bid }}</b></p>{% endif %}
+    {% if post.value %}<p><b>Estimated value: ${{ post.value }}</b></p>{% endif %}
     
   </div>
 </article>
