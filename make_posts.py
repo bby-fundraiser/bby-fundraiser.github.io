@@ -72,6 +72,7 @@ def main():
     rows.sort(key=lambda r: r["title"].strip().lower())
 
     start = datetime.strptime(args.start_date, "%Y-%m-%d")
+    seen_slugs = {}
 
     for i, row in enumerate(rows):
         include = row["include"].strip()
@@ -111,7 +112,12 @@ def main():
         if website:
             content += WEBSITE_LINE.format(url=website)
 
-        filename = output_dir / f"{date_str}-{slugify(title)}.markdown"
+        base_slug = slugify(title)
+        count = seen_slugs.get(base_slug, 0) + 1
+        seen_slugs[base_slug] = count
+        slug = base_slug if count == 1 else f"{base_slug}-{count}"
+
+        filename = output_dir / f"{date_str}-{slug}.markdown"
         filename.write_text(content, encoding="utf-8")
         print(f"Wrote {filename}")
 
