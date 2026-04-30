@@ -23,18 +23,17 @@ TEMPLATE = """\
 layout: post
 title: {title}
 date: {date} 12:00:00 +0000
-description: {description}  # Add post description (optional)
-img: {img} # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: {short_desc}
+img: {img}
+fig-caption:
 tags: [auction]
+starting_bid: {starting_bid}
+value: {value}
 ---
 
 {description}
-
-
-<b>Starting bid: {starting_bid}</b>
 """
-
+STARINGBID_LINE = "\n\n<b>Starting bid: {starting_bid}</b>"
 VALUE_LINE = "\n\n<b>Estimated value: {value}</b>"
 WEBSITE_LINE = "\n\n- [Visit their website for more info]({url})"
 
@@ -80,6 +79,7 @@ def main():
             continue
         title = row["title"].strip()
         description = row["description"].strip()
+        short_desc = description.split('\n\n')[0].strip()
         img = row["img"].strip()
         starting_bid = row["starting_bid"].strip()
         website = row["website"].strip()
@@ -93,9 +93,14 @@ def main():
             title=title,
             date=date_str,
             description=description,
+            short_desc=short_desc,
             img=img,
             starting_bid=starting_bid,
+            value=value,
         )
+
+        if starting_bid:
+            content += STARINGBID_LINE.format(starting_bid=starting_bid)
 
         if value:
             content += VALUE_LINE.format(value=value)

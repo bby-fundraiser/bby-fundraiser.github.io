@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Michael Moran
-date: 2026-04-09 12:00:00 +0000
+date: 2026-04-06 12:00:00 +0000
 description: Photograph
-
-The man with the turtle is Fred Kaist of Middleville, NJ, with a turtle he was rescuing from the road.  The turtle’s name is unknown.  Fred and Turtle were the cover photo for the Sussex Spectator in 1976 promoting the Great Turtle Race at the Sussex County Farm and Horse Show.
 img: 
 fig-caption:
 tags: [auction]

@@ -1,17 +1,19 @@
 ---
 layout: post
 title: Nesting House
-date: 2026-04-05 12:00:00 +0000
-description: gift certificate
+date: 2026-04-02 12:00:00 +0000
+description: Gift certificate
 img: nesting_house.jpg
 fig-caption:
 tags: [auction]
-starting_bid: 
+starting_bid: $55
 value: $100
 ---
 
-gift certificate
+Gift certificate
 
+
+<b>Starting bid: $55</b>
 
 <b>Estimated value: $100</b>
 
