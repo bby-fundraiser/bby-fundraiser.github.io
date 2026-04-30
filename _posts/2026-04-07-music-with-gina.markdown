@@ -2,10 +2,12 @@
 layout: post
 title: Music With Gina
 date: 2026-04-07 12:00:00 +0000
-description: 5 class pass  # Add post description (optional)
-img:  # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: 5 class pass
+img: 
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $100
 ---
 
 5 class pass

@@ -2,10 +2,12 @@
 layout: post
 title: Jason Bryd
 date: 2026-04-15 12:00:00 +0000
-description: painting, titled: The Piano Lesson  # Add post description (optional)
-img: piano_lesson.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: painting, titled: The Piano Lesson
+img: piano_lesson.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $510
 ---
 
 painting, titled: The Piano Lesson

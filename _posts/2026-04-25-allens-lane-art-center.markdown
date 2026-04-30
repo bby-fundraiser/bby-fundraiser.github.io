@@ -2,10 +2,12 @@
 layout: post
 title: Allens Lane Art Center
 date: 2026-04-25 12:00:00 +0000
-description: gift card  # Add post description (optional)
-img: allens_lane.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: gift card
+img: allens_lane.jpg
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $55
 ---
 
 gift card

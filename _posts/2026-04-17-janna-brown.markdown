@@ -2,10 +2,12 @@
 layout: post
 title: Janna Brown
 date: 2026-04-17 12:00:00 +0000
-description: family photo session  # Add post description (optional)
-img: janna_jude.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: family photo session
+img: janna_jude.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $500
 ---
 
 family photo session

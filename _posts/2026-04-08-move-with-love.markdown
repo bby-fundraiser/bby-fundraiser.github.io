@@ -2,10 +2,12 @@
 layout: post
 title: Move with Love
 date: 2026-04-08 12:00:00 +0000
-description: swag/class card  # Add post description (optional)
-img: move_with_love.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: swag/class card
+img: move_with_love.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $150
 ---
 
 swag/class card

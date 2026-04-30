@@ -2,10 +2,12 @@
 layout: post
 title: Nesting House
 date: 2026-04-06 12:00:00 +0000
-description: gift certificate  # Add post description (optional)
-img: nesting_house.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: gift certificate
+img: nesting_house.jpg
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $100
 ---
 
 gift certificate

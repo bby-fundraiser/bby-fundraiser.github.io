@@ -2,10 +2,12 @@
 layout: post
 title: Lovat Square
 date: 2026-04-12 12:00:00 +0000
-description: $100 gift card  # Add post description (optional)
-img: lovat.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: $100 gift card
+img: lovat.jpg
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $100
 ---
 
 $100 gift card

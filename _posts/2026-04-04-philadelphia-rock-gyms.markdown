@@ -2,10 +2,12 @@
 layout: post
 title: Philadelphia Rock Gyms
 date: 2026-04-04 12:00:00 +0000
-description: 4 day passes  # Add post description (optional)
-img:  # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: 4 day passes
+img: 
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $300
 ---
 
 4 day passes

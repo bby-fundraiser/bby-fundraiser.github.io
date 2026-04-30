@@ -2,10 +2,12 @@
 layout: post
 title: Kira Luxton Photo Session
 date: 2026-04-14 12:00:00 +0000
-description: 30 min mini photo session  # Add post description (optional)
-img: kira_luxon.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: 30 min mini photo session
+img: kira_luxon.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $300
 ---
 
 30 min mini photo session

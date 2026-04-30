@@ -2,10 +2,12 @@
 layout: post
 title: 1 Hotel Central Park in NYC
 date: 2026-04-30 12:00:00 +0000
-description: 1-night stay  # Add post description (optional)
-img: one_hotel.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: 1-night stay
+img: one_hotel.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $1,000
 ---
 
 1-night stay

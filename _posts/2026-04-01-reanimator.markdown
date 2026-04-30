@@ -2,10 +2,12 @@
 layout: post
 title: Reanimator
 date: 2026-04-01 12:00:00 +0000
-description: Coffee and swag  # Add post description (optional)
-img: reanimator.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: Coffee and swag
+img: reanimator.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $110
 ---
 
 Coffee and swag

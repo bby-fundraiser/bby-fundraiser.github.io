@@ -2,10 +2,12 @@
 layout: post
 title: Ruby Mountain Goods
 date: 2026-03-31 12:00:00 +0000
-description: finger puppet, diary, glow in the dark game, puzzle  # Add post description (optional)
-img: ruby_mountain.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: finger puppet, diary, glow in the dark game, puzzle
+img: ruby_mountain.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $90
 ---
 
 finger puppet, diary, glow in the dark game, puzzle

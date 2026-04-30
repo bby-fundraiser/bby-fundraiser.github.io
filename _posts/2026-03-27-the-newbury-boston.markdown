@@ -2,10 +2,12 @@
 layout: post
 title: The Newbury Boston
 date: 2026-03-27 12:00:00 +0000
-description: 2-night stay donation  # Add post description (optional)
-img: newbury.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: 2-night stay donation
+img: newbury.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $1,000
 ---
 
 2-night stay donation

@@ -2,10 +2,12 @@
 layout: post
 title: Uncle Bobbie's Coffee & Books
 date: 2026-03-26 12:00:00 +0000
-description: 5 books, tote bag, $25 GC  # Add post description (optional)
-img: uncle_bobbies.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: 5 books, tote bag, $25 GC
+img: uncle_bobbies.jpg
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $100
 ---
 
 5 books, tote bag, $25 GC

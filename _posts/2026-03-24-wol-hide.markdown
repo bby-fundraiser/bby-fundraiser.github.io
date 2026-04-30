@@ -2,10 +2,12 @@
 layout: post
 title: Wol Hide
 date: 2026-03-24 12:00:00 +0000
-description: Embroidered sweatshirt and photo book  # Add post description (optional)
-img: wolhide.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: Embroidered sweatshirt and photo book
+img: wolhide.png
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $220
 ---
 
 Embroidered sweatshirt and photo book

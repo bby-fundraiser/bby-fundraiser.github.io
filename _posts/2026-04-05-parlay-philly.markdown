@@ -2,10 +2,12 @@
 layout: post
 title: Parlay Philly
 date: 2026-04-05 12:00:00 +0000
-description: philly sports bundle  # Add post description (optional)
-img: parlay.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: philly sports bundle
+img: parlay.jpg
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $100
 ---
 
 philly sports bundle

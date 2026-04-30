@@ -2,10 +2,12 @@
 layout: post
 title: Sivia Katz Braunstein
 date: 2026-03-29 12:00:00 +0000
-description: Oil painting  # Add post description (optional)
-img: braunstein.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: Oil painting
+img: braunstein.jpg
+fig-caption:
 tags: [auction]
+starting_bid: 
+value: $400
 ---
 
 Oil painting
