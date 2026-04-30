@@ -10,7 +10,7 @@ starting_bid: $65
 value: $130
 ---
 
-Basket: Puzzle, Living Libations oil, Mithras candle, Bon Bon candy, Terra Luna tea, 2 Bluestone soaps, Date Better dates
+Basket with Puzzle, Living Libations oil, Mithras candle, Bon Bon candy, Terra Luna tea, 2 Bluestone soaps, Date Better dates
 
 
 <b>Starting bid: $65</b>
