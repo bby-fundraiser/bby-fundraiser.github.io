@@ -16,3 +16,4 @@ Oil painting
 <b>Starting bid: $200</b>
 
 <b>Estimated value: $400</b>
+![braunstein_full.jpg](/assets/img/braunstein_full.jpg)
