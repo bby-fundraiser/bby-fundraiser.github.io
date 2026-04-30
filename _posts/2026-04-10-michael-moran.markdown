@@ -6,14 +6,14 @@ description: Monk photo
 img: 
 fig-caption:
 tags: [auction]
-starting_bid: 
-value: $100.00
+starting_bid: 50
+value: 100
 ---
 
 Monk photo
 
 
-<b>Starting bid: </b>
+<b>Starting bid: 50</b>
 
 
-<b>Estimated value: $100.00</b>
+<b>Estimated value: 100</b>

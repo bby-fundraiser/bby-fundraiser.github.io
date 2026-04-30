@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sivia Katz Braunstein
-date: 2026-03-29 12:00:00 +0000
+date: 2026-03-28 12:00:00 +0000
 description: Oil painting
 img: braunstein.jpg
 fig-caption:

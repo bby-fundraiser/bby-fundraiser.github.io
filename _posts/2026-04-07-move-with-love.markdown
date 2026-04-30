@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Move with Love
-date: 2026-04-08 12:00:00 +0000
+date: 2026-04-07 12:00:00 +0000
 description: swag/class card
 img: move_with_love.png
 fig-caption:

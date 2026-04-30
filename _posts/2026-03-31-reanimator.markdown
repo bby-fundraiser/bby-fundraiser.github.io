@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reanimator
-date: 2026-04-01 12:00:00 +0000
+date: 2026-03-31 12:00:00 +0000
 description: Coffee and swag
 img: reanimator.png
 fig-caption:

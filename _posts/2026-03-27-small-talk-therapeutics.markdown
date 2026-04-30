@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small Talk Therapeutics
-date: 2026-03-28 12:00:00 +0000
+date: 2026-03-27 12:00:00 +0000
 description: confirmed but not sure yet what she is donating
 img: small_talk.png
 fig-caption:

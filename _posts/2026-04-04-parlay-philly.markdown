@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parlay Philly
-date: 2026-04-05 12:00:00 +0000
+date: 2026-04-04 12:00:00 +0000
 description: philly sports bundle
 img: parlay.jpg
 fig-caption:
