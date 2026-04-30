@@ -3,7 +3,7 @@ layout: post
 title: Music With Gina
 date: 2026-04-07 12:00:00 +0000
 description: 5 class pass
-img: 
+img: music_with_gina.jpg
 fig-caption:
 tags: [auction]
 starting_bid: 
