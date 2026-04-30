@@ -1,0 +1,19 @@
+---
+layout: post
+title: Move with Love
+date: 2026-04-08 12:00:00 +0000
+description: swag/class card  # Add post description (optional)
+img: move_with_love.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [auction]
+---
+
+swag/class card
+
+
+<b>Starting bid: </b>
+
+
+<b>Estimated value: $150</b>
+
+- [Visit their website for more info](https://www.movewithlove.com/)
