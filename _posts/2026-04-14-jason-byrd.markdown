@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jason Bryd
+title: Jason Byrd
 date: 2026-04-14 12:00:00 +0000
 description: Painting
 img: divergent.jpg
