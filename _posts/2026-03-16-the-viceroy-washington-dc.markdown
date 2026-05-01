@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Viceroy Washington DC
-date: 2026-03-20 12:00:00 +0000
+date: 2026-03-16 12:00:00 +0000
 description: One night stay
 img: viceroy.png
 fig-caption:

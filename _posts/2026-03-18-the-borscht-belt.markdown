@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Borscht Belt
-date: 2026-03-22 12:00:00 +0000
+date: 2026-03-18 12:00:00 +0000
 description: Gift card
 img: theborschtbelt.png
 fig-caption:

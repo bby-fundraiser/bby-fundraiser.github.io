@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reanimator
-date: 2026-03-27 12:00:00 +0000
+date: 2026-03-23 12:00:00 +0000
 description: 2 bags of coffee, travel mug, candle, matches, lighter, tote bag
 img: reanimator.png
 fig-caption:
