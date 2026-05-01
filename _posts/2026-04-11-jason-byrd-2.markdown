@@ -1,0 +1,23 @@
+---
+layout: post
+title: Jason Byrd
+date: 2026-04-11 12:00:00 +0000
+description: painting
+img: piano_lesson.jpg
+fig-caption:
+tags: [auction]
+starting_bid: $300
+value: $510
+---
+
+painting
+
+Titled "The Piano Lesson"
+
+
+<b>Starting bid: $300</b>
+
+<b>Estimated value: $510</b>
+![piano_lesson.jpg](/assets/img/piano_lesson.jpg)
+
+- [Visit their website for more info](https://www.jasonby.com/)
