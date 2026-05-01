@@ -13,7 +13,7 @@ value: $1,650
 2-night stay donation
 
 
-<b>Starting bid: $25 raffle ticket</b>
+<b>$25 raffle ticket. Enter for a chance to win!</b>
 
 <b>Estimated value: $1,650</b>
 
