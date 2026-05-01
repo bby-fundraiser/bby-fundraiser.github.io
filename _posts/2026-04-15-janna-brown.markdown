@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Janna Brown
-date: 2026-04-16 12:00:00 +0000
+date: 2026-04-15 12:00:00 +0000
 description: Family photo session
 img: janna_jude.png
 fig-caption:

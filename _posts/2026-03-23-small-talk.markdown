@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Small Talk Therapeutics
-date: 2026-03-25 12:00:00 +0000
+title: Small Talk
+date: 2026-03-23 12:00:00 +0000
 description: Kinetic sand, Travel magnatiles, Zingo, What the Road Says, adult hat, adult sweatshirt, kids sweatshirt
 img: small_talk.png
 fig-caption:

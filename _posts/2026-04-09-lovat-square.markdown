@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lovat Square
-date: 2026-04-10 12:00:00 +0000
+date: 2026-04-09 12:00:00 +0000
 description: Gift card
 img: lovat.jpg
 fig-caption:

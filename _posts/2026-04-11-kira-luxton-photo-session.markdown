@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Kira Luxton Photo Session
-date: 2026-04-12 12:00:00 +0000
-description: 30 min mini photo session
+date: 2026-04-11 12:00:00 +0000
+description: 30 min Family Photo Session
 img: kira_luxon.png
 fig-caption:
 tags: [auction]
@@ -10,7 +10,7 @@ starting_bid: $150
 value: $300
 ---
 
-30 min mini photo session
+30 min Family Photo Session
 
 
 <b>Starting bid: $150</b>

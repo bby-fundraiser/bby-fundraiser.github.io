@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jason Bryd
-date: 2026-04-15 12:00:00 +0000
+date: 2026-04-14 12:00:00 +0000
 description: Painting
 img: divergent.jpg
 fig-caption:
@@ -12,7 +12,7 @@ value: $710
 
 Painting
 
-Titled "Divergent Truths (My Heart in Two)"
+Titled "Divergent Truths (My Heart in 2)"
 
 
 <b>Starting bid: $400</b>

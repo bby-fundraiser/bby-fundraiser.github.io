@@ -1,18 +1,20 @@
 ---
 layout: post
 title: The Newbury Boston
-date: 2026-03-24 12:00:00 +0000
+date: 2026-03-21 12:00:00 +0000
 description: 2-night stay donation
 img: newbury.png
 fig-caption:
 tags: [auction]
-starting_bid: 
-value: $1,000
+starting_bid: $25 raffle ticket
+value: $1,650
 ---
 
 2-night stay donation
 
 
-<b>Estimated value: $1,000</b>
+<b>Starting bid: $25 raffle ticket</b>
+
+<b>Estimated value: $1,650</b>
 
 - [Visit their website for more info](https://www.thenewburyboston.com/)

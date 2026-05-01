@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jason Bryd
-date: 2026-04-14 12:00:00 +0000
+date: 2026-04-13 12:00:00 +0000
 description: painting
 img: piano_lesson.png
 fig-caption:

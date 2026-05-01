@@ -16,3 +16,5 @@ Yearly family pass to the Academy of Natural Sciences
 <b>Starting bid: $70</b>
 
 <b>Estimated value: $135</b>
+
+- [Visit their website for more info](ansp.org)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Move with Love
-date: 2026-04-05 12:00:00 +0000
+date: 2026-04-04 12:00:00 +0000
 description: 5 class pack, tote bag, t-shirt, and Greeting Card
 img: move_with_love.png
 fig-caption:

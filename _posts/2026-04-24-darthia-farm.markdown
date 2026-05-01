@@ -12,6 +12,8 @@ value: $75
 
 Basket of goodies
 
+Maine made pasta, Maine potato chips, Maine Maple Sugar, Tinpenny Jenny’s Maine Blueberry spread, Maine crisps, Maine honey, Maine popcorn, Maine honey, Maine maple syrup, Aneesa Lee and The Weaver’s Gift book
+
 
 <b>Starting bid: $40</b>
 

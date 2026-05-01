@@ -6,8 +6,13 @@ description: Private yoga session, one hour restorative yoga session in your hom
 img: 
 fig-caption:
 tags: [auction]
-starting_bid: 
-value: 
+starting_bid: $30
+value: $50
 ---
 
 Private yoga session, one hour restorative yoga session in your home
+
+
+<b>Starting bid: $30</b>
+
+<b>Estimated value: $50</b>

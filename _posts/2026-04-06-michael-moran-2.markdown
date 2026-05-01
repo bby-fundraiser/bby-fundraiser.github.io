@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Michael Moran
-date: 2026-04-07 12:00:00 +0000
+date: 2026-04-06 12:00:00 +0000
 description: Photograph
 img: turtle_man.png
 fig-caption:
