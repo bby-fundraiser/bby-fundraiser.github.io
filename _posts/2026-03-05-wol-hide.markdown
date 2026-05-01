@@ -1,0 +1,20 @@
+---
+layout: post
+title: Wol Hide
+date: 2026-03-05 12:00:00 +0000
+description: Embroidered sweatshirt and photo book
+img: wolhide.png
+fig-caption:
+tags: [auction]
+starting_bid: $110
+value: $220
+---
+
+Embroidered sweatshirt and photo book
+
+
+<b>Starting bid: $110</b>
+
+<b>Estimated value: $220</b>
+
+- [Visit their website for more info](https://wolhide.com)
